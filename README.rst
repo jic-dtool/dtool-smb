@@ -5,7 +5,7 @@ Server Message Block (SMB) storage support for dtool
    :target: http://badge.fury.io/py/dtool-smb
    :alt: PyPi package
 
-- GitHub: https://github.com/IMTEK-Simulation/dtool-smb
+- GitHub: https://github.com/jic-dtool/dtool-smb
 - PyPI: https://pypi.python.org/pypi/dtool-smb
 - Free software: MIT License
 
